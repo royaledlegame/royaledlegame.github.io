@@ -5,6 +5,7 @@
 
 <article class="card">
 <p>Think you know every Clash Royale card inside and out? <strong><a href="https://chickenjockeyclicker.com/royaledle">Royaledle</a></strong> is here to test that confidence. Built for fans who love quick brain teasers, Royaledle turns your card knowledge into a sleek, daily puzzle you can master in minutes—and brag about for days.</p>
+Play on Website: <a href="https://chickenjockeyclicker.com/royaledle">https://chickenjockeyclicker.com/royaledle</a>
 
 
 <h2>How It Works</h2>
